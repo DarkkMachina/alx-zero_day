@@ -6,5 +6,4 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   README.md
 
-no changes added to commit (use "git add" and/or "git commit -a")
-edite this file 
+no changes added to commit (use "git add" and/or "git commit -a") 
